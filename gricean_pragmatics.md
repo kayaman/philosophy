@@ -2,10 +2,11 @@
 ---
 # Gricean Pragmatics
 
-Herbert Paul Grice - *Logic and Conversation* - University of California, Berkeley
+Herbert Paul Grice: *Logic and Conversation* - University of California, Berkeley.
 
-Pragmatics - the study of how people use language in real conversations
+Semantics: the literal meaning of the words or sentences we use.
 
+**Pragmatics**: the study of how people use language in real conversations.
 
 ## Conversational Implicature
 
