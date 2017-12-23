@@ -1,5 +1,5 @@
-[Language](README.md)
-
+[Language](README.md#language)
+---
 # Gricean Pragmatics
 
 Herbert Paul Grice - *Logic and Conversation* - University of California, Berkeley
