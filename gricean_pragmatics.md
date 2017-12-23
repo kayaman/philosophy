@@ -1,3 +1,5 @@
+[Language](README.md)
+
 # Gricean Pragmatics
 
 Herbert Paul Grice - *Logic and Conversation* - University of California, Berkeley
@@ -53,4 +55,3 @@ Not conventional rules of conversation, rather rules that govern rational cooper
   - avoid ambiguity
   - be brief
   - be orderly
-
