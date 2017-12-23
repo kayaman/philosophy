@@ -19,7 +19,7 @@ Methaphysics and epistemology
 ---
 ## Meaning and Language
 
-## [Gricean Pragmatics](../blob/master/gricean_pragmatics.md)
+## [Gricean Pragmatics](gricean_pragmatics.md)
 
 ## Conditionals, Part 1
 
