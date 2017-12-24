@@ -1,7 +1,5 @@
 # Methaphysics and Epistemology
 
-https://kayaman.github.io/philosophy/
-
 ## Metaphysics
 
 #### Ship of Theseus
