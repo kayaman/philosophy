@@ -1,4 +1,4 @@
-[Language](README.md#language)
+[Language](../README.md#language)
 ---
 # Gricean Pragmatics
 

@@ -1,6 +1,6 @@
 # Philosophy
 
-Methaphysics and epistemology
+> Methaphysics and Epistemology
 
 ## Metaphysics
 ---
@@ -19,7 +19,7 @@ Methaphysics and epistemology
 ---
 #### [Meaning and Language](language/meaning_and_language.md)
 
-#### [Gricean Pragmatics](gricean_pragmatics.md)
+#### [Gricean Pragmatics](language/gricean_pragmatics.md)
 
 #### Conditionals, Part 1
 
