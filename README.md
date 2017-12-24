@@ -1,6 +1,6 @@
-# Philosophy
+# Methaphysics and Epistemology
 
-> Methaphysics and Epistemology
+https://kayaman.github.io/philosophy/
 
 ## Metaphysics
 
