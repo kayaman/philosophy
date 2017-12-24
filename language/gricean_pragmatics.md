@@ -31,7 +31,7 @@ suggested, implied, or hinted at.
 
 Make a conversational contribution such as it is required, at the stage at which it occurs, by the accepted purpose or direction of the talk exchange in which you are engaged.
 
-### The Four maxims
+### The Four Maxims
 
 Not conventional rules of conversation, rather rules that govern rational cooperative activity in general.
 
