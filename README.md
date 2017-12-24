@@ -17,7 +17,7 @@ Methaphysics and epistemology
 
 ## Language
 ---
-#### Meaning and Language
+#### [Meaning and Language](language/meaning_and_language.md)
 
 #### [Gricean Pragmatics](gricean_pragmatics.md)
 
