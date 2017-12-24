@@ -18,7 +18,7 @@ Two ways to answer:
 
 ### Speaker intentions
 
-Herbert Paul Grice argued that speaker intentions determine meaning. Intentions are purposes or goals we have in acting. Intentions of a specific sort can account for certain sounds and marks on a page or computer screen **being meaningful**. He developed the theory on which a sentence
+Herbert Paul Grice argued that speaker intentions determine meaning. Intentions are purposes or goals we have in acting. Intentions of a specific sort can account for certain sounds and marks on a page or computer screen **being meaningful**. He developed the theory on which a sentence has a particular meaning given a speaker's or writer's intentions.
 
 
 
