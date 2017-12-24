@@ -3,34 +3,32 @@
 > Methaphysics and Epistemology
 
 ## Metaphysics
----
+
 #### Ship of Theseus
 #### Problem of Free Will
 #### The Grandfather Paradox
 
-## Mind
 ---
+## Mind
+
 #### Mind-Body Dualism
 #### Personal Identity: The True Self
 #### Personal Identity: The Essential Moral Self
 #### Personal Identity: The Narrative Self
 
-## Language
 ---
+## Language
+
 #### [Meaning and Language](language/meaning_and_language.md)
-
 #### [Gricean Pragmatics](language/gricean_pragmatics.md)
-
 #### Conditionals, Part 1
-
 #### Conventional Implicature
-
 #### Conditionals, Part 2
-
 #### Conditionals, Part 3
 
-## Theory of knowledge
 ---
+## Theory of knowledge
+
 #### Introduction
 #### The Problem of Skepticism
 #### Three Responses to Skepticism
@@ -42,8 +40,9 @@
 #### 'Knowledge First' Epistemology
 #### Virtue Epistemology
 
-## Epistemology
 ---
+## Epistemology
+
 #### Argument and Evidence
 #### Science, Can It Teach Us Everything?
 #### The Will to Believe
@@ -55,3 +54,11 @@
 #### Paradoxes of Perception: Argument from Hallucination
 #### The Paradox of the Ravens
 #### The Puzzle of Grue
+
+---
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, Marco Antonio Gonzalez Junior has waived all copyright and
+related or neighboring rights to this work.
