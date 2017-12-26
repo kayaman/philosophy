@@ -34,7 +34,7 @@ What does the utterance mean? Its meaning depends on the way speakers and writer
 
 What makes our words or utterances meaningful in an **externalist** way? Externalists hold that meaning is determined by what is external to a language user. The philosopher *Hilary Putnam* famously argued that "meanings just ain't in the head". He started his argument by explaining two conditions many philosophers have accepted:
 
-1. ~~Knowing the meaning of a term is just being in a psycological state~
+1. ~~Knowing the meaning of a term is just being in a psycological state~~
 2. The meaning of an expression determines what things the expression applies to
 
 For example, the meaning of the expression below determines a certain group of things that are mammals. You're one of those things, I'm one of those things, my cat is one of those things. Any expression with the same meaning as *mammal creature* will apply to all those same things.
