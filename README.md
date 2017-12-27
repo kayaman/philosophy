@@ -1,6 +1,8 @@
-# [Methaphysics and Epistemology](https://kayaman.github.io/philosophy/)
+# Philosophy
 
 ## Metaphysics
+
+**Metaphysics** is an area of philosophy concerned with what there is in the universe (ontology) and the nature of what exists. 
 
 #### Ship of Theseus
 #### Problem of Free Will
@@ -40,6 +42,8 @@
 
 ---
 ## Epistemology
+
+**Epistemology** is a related area interested in knowledge and how we know things about the universe.
 
 #### Argument and Evidence
 #### Science, Can It Teach Us Everything?
