@@ -31,6 +31,6 @@ Equivalently, he said that **either**:
 
 ## The material conditional theory
 
-    $$
-    P \implies Q
-    $$
+  $$
+  P \implies Q
+  $$
