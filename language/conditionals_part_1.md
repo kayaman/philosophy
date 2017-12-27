@@ -13,7 +13,7 @@ Conditional sentences like the one above consist of two parts:
 
 One way of figuring out what the sentence told us is to get clear on what it has **not** told us. He hasn't told us the bicycle needs repair, and he also hasn't told us that he will fix the bicycle. Rather, what he said is that there is some connection between the bicycle needing repair and he fixing it. But what connection? 
 
-Here's a simple answer: by saying the sentence he has told us that **it's not the case that**:
+Here's a simple answer: by saying the sentence,gi he has told us that **it's not the case that**:
 
 1. the bicycle needs repair
 
