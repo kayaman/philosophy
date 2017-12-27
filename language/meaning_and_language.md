@@ -13,8 +13,8 @@ What gives a word or utterance meaning?
 
 Two ways to answer:
 
-- Internalist: mental or psychological states determine meaning.
-- Externalist: meaning is determined somewhere out - on natural features of the world or on the expertise of others in society.
+- **Internalist**: mental or psychological states determine meaning.
+- **Externalist**: meaning is determined somewhere out - on natural features of the world or on the expertise of others in society.
 
 ### Speaker Intentions
 
@@ -30,9 +30,13 @@ Utterances of sentences mean the same thing eternally:
 
 > Grice lived in Oxford.
     
-What does the utterance mean? Its meaning depends on the way speakers and writers see it. If speakers tend to use the sentence above to mean that a particular person resided in some town in England, then that's is what it means. So in this way, certain sounds and marks are meaningful due to **intentions**. Intentions are represented psychologically in individuals, so it's an **internalist** theory.
+**What does this utterance mean?** 
 
-What makes our words or utterances meaningful in an **externalist** way? Externalists hold that meaning is determined by what is external to a language user. The philosopher *Hilary Putnam* famously argued that *meanings just ain't in the head*. He started his argument by explaining two conditions many philosophers have accepted:
+Its meaning depends on the way speakers and writers see it. If speakers tend to use the sentence above to mean that a particular person resided in some town in England, then that's is what it means. So in this way, certain sounds and marks are meaningful due to **intentions**. Intentions are represented psychologically in individuals, so it's an **internalist** theory.
+
+**What makes our words or utterances meaningful in an *externalist* way?**
+
+Externalists hold that meaning is determined by what is external to a language user. The philosopher *Hilary Putnam* famously argued that *meanings just ain't in the head*. He started his argument by explaining two conditions many philosophers have accepted:
 
 1. ~~Knowing the meaning of a term is just being in a psycological state~~
 2. The meaning of an expression determines what things the expression applies to
@@ -42,15 +46,17 @@ For example, the meaning of the expression below determines a certain group of t
 > Creature is a mammal.
     
 *Putnam* accepts the second condition, but argues that the first must be rejected. Meanings, he concludes, are not psychological states. **"Meanings just ain't in the head!"**.
+ 
+### Thought Experiments
 
-**Thought Experiments**: Hypothetical situations that philosophers use to help determine what would make something true and what the conditions for accurately applying the concept are. Psychological duplicates can report their feelings in ways that sound identical nevertheless, Putnan argues, they're different. Since they are psychologically identical but mean different things when they make the same sound, meanings cannot be wholly internal.
+Hypothetical situations that philosophers use to help determine what would make something true and what the conditions for accurately applying the concept are. Psychological duplicates can report their feelings in ways that sound identical nevertheless, *Putnan* argues, they're different. Since they are psychologically identical but mean different things when they make the same sound, meanings cannot be wholly internal.
 
 **What external things are relevant to meaning?**
 
-    - the natural physical environment
-    - the external social environment
+- the natural physical environment
+- the external social environment
 
-Causal and historical connections with our natural and social environment work to determine what our expressions and utterances mean. Meanings cannot be wholly internal.
+Causal and historical connections with our natural and social environment work to determine what our expressions and utterances mean. **Meanings cannot be wholly internal.**
 
 
 
