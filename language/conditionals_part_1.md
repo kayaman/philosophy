@@ -35,7 +35,7 @@ Equivalently, he said that **either**:
     
     (P implies Q. Read: If P, then Q)
 
-In orders to state the material conditional theory more precisely, we will make use of a device from logic called a **truth table**. A **truth table** is a way of representing hos the truth of a complex sentence depends on the truth values of its parts.
+In order to state the material conditional theory more precisely, we will make use of a device from logic called a **truth table**. A **truth table** is a way of representing how the truth of a complex sentence depends on the truth values of its parts.
     
 ### Simple example of conjunction
 
@@ -69,9 +69,9 @@ The bicycle needs repair. | I will fix it. | If the bicycle needs repair, I will
  True                     | True           | True
  True                     | False          | **False**
  False                    | True           | True
- False                    | False          | False
+ False                    | False          | True
  
-Notice that according to the theory, the sentence is true in all rows besides the second. This doesn't seem right. There are some challenges facing the material conditional theory. There are some other theories about what conditionals mean that may perform better.
+Notice that according to the theory, the sentence is true in all rows besides the second. This doesn't seem right. There are some challenges facing the material conditional theory and some other theories about what conditionals mean that may perform better.
 
 
     
