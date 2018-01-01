@@ -22,7 +22,7 @@
 #### [Meaning and Language](language/meaning_and_language.md)
 #### [Gricean Pragmatics](language/gricean_pragmatics.md)
 #### [Conditionals, Part 1](language/conditionals_part_1.md)
-#### Conventional Implicature
+#### [Conventional Implicature](language/conventional_implicature.md)
 #### Conditionals, Part 2
 #### Conditionals, Part 3
 
