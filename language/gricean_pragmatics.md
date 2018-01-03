@@ -16,7 +16,9 @@ suggested, implied, or hinted at.
 - *implicatures* that come about due to general features of conversation
 - in general, conversations are cooperative efforts
 - there is generally some goal or purpose to the conversation
-- (understand & be understood / influence & be influenced / give & receive)
+    - understand and be understood
+    - influence and be influenced
+    - give and receive
 
 - Facts about:
 
@@ -43,7 +45,7 @@ Not conventional rules of conversation, rather rules that govern rational cooper
 2. Maxim of **Quality**
 
     - do not say what you believe to be false
-    - do not say that for which you lack adequate
+    - do not say that for which you lack adequate evidence
 
 3. Maxim of **Relation**
 

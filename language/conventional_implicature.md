@@ -20,18 +20,22 @@ If I say *"I am tired"* in response to an invitation, I hope that my heared will
 1. The literal meaning of the sentence *"I am tired"*.
 2. The implied meaning that I don't want to go on the date.
 
-The first of these meanings is what we call **conventional meaning** or **linguistic meaning**, that is, attached directly to the meanings of the words in question. The second meaning, which is the **implied meaning**, is **non-conventional**. By this I mean that the second meaning isn't attached to the meanings of the words *"I am tired"*. Furthermore, the sentence *"I am tired"* can have different implied meanings in other contexts.
+The first of these meanings is what we call **conventional meaning** or **linguistic meaning**, that is, attached directly to the meanings of the words in question. The second meaning, which is the **implied meaning**, is **non-conventional**. By this I mean that the second meaning isn't attached to the meanings of the words *"I am tired"*. Furthermore, the sentence *"I am tired"* can have different implied (non-conventional) meanings in other contexts.
 
+Philosophers and linguistics often talk he truth conditional meaning of a sentence about the truth conditional meaning of sentences. This is a kind of meaning that's directly part of the literal meaning of a sentence, and it what is used to determine wheter a sentence is true or not. So for the sentence *"I am tired"*, this sentence will be true if, and only if, I am actually tired. The truth conditional meaning of the sentence is not necessarily a part of the implied meanings we've discussed so far. 
+
+So if I say *"I am tired"* to imply that I don't want to go on a date, the truth conditions still just depend on whether or not I am actually tired. The part about not wanting to go out on the date doesn't factor into the truth conditions of *"I am tired"*. So the conversational implicature meaning, the part about not wanting to go on the date isn't truth conditional. The conversational implicature meaning is irrelevant to determining the truth of a sentence.
 
 ## Three dimensions of meaning
 
-
 #### Conventional truth conditional meaning
 
-#### Conventional non truth conditional meaning
+Literal and conventional.
 
 #### Non-conventional implied meaning
 
+Implied and non-conventional.
 
+#### Conventional non truth conditional meaning
 
 
